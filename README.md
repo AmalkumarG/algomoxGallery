@@ -1,3 +1,11 @@
+# Responsive NavBar and image gallery
+
+## Output
+https://user-images.githubusercontent.com/102892250/214963567-cd375fc5-402c-4264-ab26-07948502574a.mp4
+
+## Resonsive navbar and image gallery using grid
+https://user-images.githubusercontent.com/102892250/214962784-6e92966f-9b06-4e7f-ae58-c189367580b4.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
