@@ -1,0 +1,57 @@
+const img=[
+    {
+        img:['https://c4.wallpaperflare.com/wallpaper/312/851/784/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840%C3%972400-wallpaper-preview.jpg','https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg']
+    },
+    {
+        img:['https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGQlMjBwaG90b3N8ZW58MHx8MHx8&w=1000&q=80']
+    },
+    {
+        img:['https://wallpaperaccess.com/full/271965.jpg']
+    },
+    {
+        img:['https://images.unsplash.com/photo-1615572766543-06c21416eb05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVsbCUyMGhkfGVufDB8fDB8fA%3D%3D&w=1000&q=80']
+    },
+    {
+        img:['https://www.whoa.in/download/bicycle-hd-wallpapers---background-images--cyclist-1080p-2k-4k-5k-hd-wallpapers-free-download']
+    },
+    {
+        img:['https://mobimg.b-cdn.net/v3/fetch/83/83b001d629f121eea6797b62cdcb4c68.jpeg']
+    },
+    {
+        img:['https://wallpapercave.com/wp/wp2670841.jpg']
+    },
+    {
+        img:['https://mobimg.b-cdn.net/v3/fetch/b4/b4d430320229744245679e19e50b6f03.jpeg']
+    },
+    {
+        img:['https://wallpaperaccess.com/full/632198.jpg']
+    },
+    {
+        img:['https://static.tnn.in/photo/msid-96269750/96269750.jpg']
+    },
+    {
+        img:['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNs9nWp5I0s2P6dkYb9wROkoLuD78AZVspBQ&usqp=CAU']
+    },
+    {
+        img:['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKC3okcfc1pU5y8BVhyqXnKx2CWZoI5GwfQ&usqp=CAU']
+    }, {
+        img:['https://c4.wallpaperflare.com/wallpaper/312/851/784/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840%C3%972400-wallpaper-preview.jpg','https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg']
+    },
+    {
+        img:['https://images.unsplash.com/photo-1503249023995-51b0f3778ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGQlMjBwaG90b3N8ZW58MHx8MHx8&w=1000&q=80']
+    },
+    {
+        img:['https://wallpaperaccess.com/full/271965.jpg']
+    },
+    {
+        img:['https://images.unsplash.com/photo-1615572766543-06c21416eb05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVsbCUyMGhkfGVufDB8fDB8fA%3D%3D&w=1000&q=80']
+    },
+    {
+        img:['https://www.whoa.in/download/bicycle-hd-wallpapers---background-images--cyclist-1080p-2k-4k-5k-hd-wallpapers-free-download']
+    },
+    {
+        img:['https://mobimg.b-cdn.net/v3/fetch/83/83b001d629f121eea6797b62cdcb4c68.jpeg']
+    },
+]
+
+export default {img}
